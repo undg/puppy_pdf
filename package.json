@@ -1,0 +1,17 @@
+{
+  "name": "diffweb",
+  "version": "1.0.0",
+  "description": "Making and comparing pages screenshot's",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "und3rdg",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "puppeteer": "^2.0.0",
+    "resemblejs": "^3.2.3",
+    "rimraf": "^3.0.0"
+  }
+}

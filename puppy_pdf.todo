@@ -1,0 +1,8 @@
+## pdf_pupy()
+- [ ] arguments:
+    - [ ] url
+    - [ ] path + filename
+    - [ ] footer <html>
+    - [ ] emulateMedia('screen') <bool>
+- [ ] shell exit code when done
+- [ ] https://github.com/puppeteer/puppeteer/blob/v2.0.0/docs/api.md#pagepdfoptions
