@@ -19,6 +19,15 @@ Generate PDF
     ./puppy_pdf.js -o "out/file.pdf" -u "http://www.url.com" -m "screen|print"
 ```
 
+## help
+
+```
+    --help    -h : this help message
+    --out     -o : output file destination (including filename)
+    --url     -u : url address
+    --media   -m : media type 'screen' or 'print'
+```
+
 
 
 
