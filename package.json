@@ -1,17 +1,16 @@
 {
-  "name": "diffweb",
+  "name": "puppy_pdf",
   "version": "1.0.0",
-  "description": "Making and comparing pages screenshot's",
-  "main": "test.js",
+  "description": "url 2 pdf",
+  "main": "puppy_pdf.js",
   "scripts": {
-    "start": "node test.js"
+    "start": "puppy_pdf.js --help"
   },
   "author": "und3rdg",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.2",
-    "puppeteer": "^2.0.0",
-    "resemblejs": "^3.2.3",
-    "rimraf": "^3.0.0"
+    "eslint": "^6.7.2",
+    "minimist": "^1.2.0",
+    "puppeteer": "^2.0.0"
   }
 }

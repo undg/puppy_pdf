@@ -13,9 +13,3 @@ Session.vim
 # NODE
 node_modules
 
-# PROJECT FILES
-diff
-orig
-out
-config.json
-config.js

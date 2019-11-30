@@ -7,10 +7,17 @@ Generate PDF
 ## Installation ## 
 
 ```
-npm start
+    git clone "https://github.com/und3rdg/puppy_pdf"
+    cd puppy_pdf
+    npm install
 ```
 
-Add domain and pages to config.json, set what you want to set...
+## Usage
+
+```
+    ./puppy_pdf.js --help
+    ./puppy_pdf.js -o "out/file.pdf" -u "http://www.url.com" -m "screen|print"
+```
 
 
 
