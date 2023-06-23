@@ -9,7 +9,7 @@
   "author": "und3rdg",
   "license": "ISC",
   "dependencies": {
-    "eslint": "^6.7.2",
+    "eslint": "^8.43.0",
     "minimist": "^1.2.6",
     "puppeteer": "^2.0.0"
   }
